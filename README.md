@@ -69,5 +69,3 @@ This project performs a comprehensive analysis of IPL match-level data from `mat
 
  🙌 Acknowledgments
 - IPL data providers (e.g., Kaggle, ESPNcricinfo)
-- Python open-source community
-
